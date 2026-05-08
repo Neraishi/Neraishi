@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi! I'm Neraishi ✨
 
-<!--
-**Neraishi/Neraishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+ ∧＿∧
+(｡･ω･｡)つ━☆・*。
+⊂   |      ・゜+.
+ しーＪ   °。+ *´¨)
+        .· ´¸.·*´¨) ¸.·*¨)
+        ( pookie coder ) ✨
+</pre>
 
-Here are some ideas to get you started:
+### 🐾 Обо мне:
+- 🌸 Учусь кодить на **C#** и **Kotlin** (когда есть настроение)
+- ⚡ Пытаюсь победить лень и закрасить квадратики контрибуции в зеленый
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧸 Статистика:
+<p align="left">
+  <img src="vercel.app" alt="Neraishi stats" />
+</p>
