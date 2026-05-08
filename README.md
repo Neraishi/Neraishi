@@ -14,6 +14,5 @@
 - ⚡ Пытаюсь победить лень и закрасить квадратики контрибуции в зеленый
 
 ### 🧸 Статистика:
-<p align="left">
-  <img src="vercel.app" alt="Neraishi stats" />
-</p>
+![Neraishi Stats](vercel.app)
+
